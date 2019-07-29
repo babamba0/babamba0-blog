@@ -1,0 +1,1 @@
+web: gunicorn babamba-blog.wsgi --log-file -
